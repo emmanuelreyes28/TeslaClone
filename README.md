@@ -1,8 +1,8 @@
 # TeslaClone
-I am new to react native and follow tutorials that seems interesting so I 
+I am new to react native and follow tutorials that seem interesting so I 
 can learn and have fun!
 
-Followed YouTube Tutorial on how to clone Tesla.com into an app using reat native. 
+Followed YouTube Tutorial on how to clone Tesla.com into an app using react native. 
 
 Things I learned:
 -Text
